@@ -9,7 +9,7 @@ It has:
 - trained for 10 epochs
 - 0.5 dropout
 
-I haven't implemented early stopping because it's just 10 epochs and the dataset quality is alright.
+I haven't implemented early stopping because it's just 10 epochs and the dataset quality is alright. \
 Test - Avg Loss: 0.0238, Accuracy: 99.40%
 
 Other metrics can be found in the notebook (F1, recall, precision, etc)
