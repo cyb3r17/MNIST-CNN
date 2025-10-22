@@ -4,6 +4,9 @@ My CNN implementation on the MNIST dataset
 ## About
 This is an attempt by me to write a simple CNN in PyTorch for the MNIST handwritten numerical digits dataset.
 
+
+[![Video Title](https://img.youtube.com/vi/H0oEr40YhrQ/0.jpg)](https://www.youtube.com/watch?v=H0oEr40YhrQ) <br>
+Convolutional Network Demo from 1989 [restored version] 
 It has:
 - 3 convolution + activation and maxpool layers
 - trained for 10 epochs
